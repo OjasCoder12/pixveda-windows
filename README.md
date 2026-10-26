@@ -78,7 +78,7 @@ Verify the integrity of your download:
 - **File:** `PixVeda-Windows-x64.zip`
 - **SHA-256 Checksum:**
   ```text
-  9faf75cf47d44cc4251880a718c26e7c1fff9d669c4e6dd1a136c36cfe371402
+  8e40b5572ad32d78cd3cd440d189d133b25f2c04515737672623c10a6002b4e3
   ```
 
 ---
